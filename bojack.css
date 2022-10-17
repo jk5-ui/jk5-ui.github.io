@@ -1,0 +1,11 @@
+p {
+ border-radius: 0 100px 0 100px;
+ padding: 40px;
+ width: 150px;
+ background-color: honeyDew;
+ text-align: center;
+}
+
+body {
+ background-color: lightblue;
+}
